@@ -14,13 +14,14 @@
 
 body {
 	color: #282B30;
+	background-color: #EEE;
 }
 
 .veryback {
-	background-color: #EEE;
+	/* background-color: #EEE; */
 }
 
 
 .topback {
-	background-color: #EEEEEE;
+	/* background-color: #EEEEEE; */
 }
